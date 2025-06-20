@@ -1,4 +1,5 @@
-![Alt Text]()
+![Alt Text](![image](https://github.com/user-attachments/assets/6cb09d06-bade-40d1-91ef-5f179fdd391f)
+)
 
 # Hi, I'm Prajukta
 I'm a software engineer currently pursuing my Bachelor's in Technology
