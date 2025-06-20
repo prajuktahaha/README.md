@@ -1,3 +1,4 @@
+![Alt Text]()
 
 # Hi, I'm Prajukta
 I'm a software engineer currently pursuing my Bachelor's in Technology
