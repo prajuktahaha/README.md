@@ -1,4 +1,4 @@
-[![Watch the video](https://pin.it/24uu5X1Rb)
+![Description of Image](https://github.com/prajuktahaha/README.md/blob/99f03e400fa86344e005f121343e636de83dd417/download%20(4).jpg?raw=true)
 # Hi, I'm Prajukta
 I'm a software engineer currently pursuing my Bachelor's in Technology
 im passionate about making open source more accesible , creating technologies to elevate people
